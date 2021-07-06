@@ -46,7 +46,7 @@ p{
     height: 500px;  
 }
 .my-img{
-    width: 67%;
+    width: 68.5%;
 }
 .recipie-title{
     color: rgb(0, 0, 0);
@@ -109,7 +109,10 @@ p{
     height: 500px;
     border-left: 7px solid;
     border-bottom: 7px solid;
-    border-image:linear-gradient(rgb(70, 89, 255),rgb(97, 184, 255));
-    border-image-slice: 1;
-    
+    border-color: skyblue;
+    border-image-slice: 1;  
+}
+footer{
+    text-align: center;
+    color: rgb(82, 82, 83);
 }
