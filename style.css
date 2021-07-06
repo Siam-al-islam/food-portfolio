@@ -85,3 +85,31 @@ p{
 .single-div{
     margin: 0% 5% 0% 15%;
 }
+.customer-paragraph{
+    text-align: center;
+    margin: 0% 20% 0% 20%;
+}
+.customer-item p{
+    font-family: 'Dosis', sans-serif;
+}
+.customer-item img{
+    width: 100%;
+    border-radius: 25px;
+    height: 50%;
+}
+.customer-item{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 7%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 1%;
+    border-radius: 25px;
+    text-align: justify;
+    height: 500px;
+    border-left: 7px solid;
+    border-bottom: 7px solid;
+    border-image:linear-gradient(rgb(70, 89, 255),rgb(97, 184, 255));
+    border-image-slice: 1;
+    
+}
