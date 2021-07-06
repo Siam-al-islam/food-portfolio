@@ -2,7 +2,6 @@ body{
     font-family: 'Poppins', sans-serif;
     padding-left: 4%;
 }
-
 h1{
     font-size: 50px;
     color: rgb(82, 82, 83);
@@ -23,44 +22,36 @@ p{
 }
 .half-width{
     width: 50%;
-    padding: 4%;
-
+}
+.common-box{
+    padding:6% 0 0 6%;
+}
+.common-box-img{
+    padding: 0 0 0 30%;
 }
 .someone-img{
     width: 90%;
     height: 95%;
-    
 }
 .flexible-container{
     display: flex;
     margin: 4%;
     background-color: rgb(255, 255, 255);
-    
 }
 .about-me{
-    
     background-image: url(../food-portfolio/img/Frame\ 57.jpg );
     background-repeat: no-repeat;
     background-position: right;
     width: 90%;
-    height: 500px;
-      
+    height: 500px;  
 }
-
 .my-img{
-    
-    width: 80%;
-    margin: 0% 5% 20%;
-   
+    width: 67%;
 }
-
-
 .recipie-title{
     color: rgb(0, 0, 0);
     text-align: center;
 }
-
-
 .recipie-item{
     width: 50%;
     margin-left: 5%;
@@ -91,7 +82,6 @@ p{
     padding: 10px;
     text-align: center;
 }
-
 .single-div{
     margin: 0% 5% 0% 15%;
 }
